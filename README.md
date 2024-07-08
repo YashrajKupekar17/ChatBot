@@ -1,10 +1,17 @@
+Introduction:
+This project is a RESTful API built using Express.js that implements a chatbot capable of handling hotel booking queries. The chatbot uses OpenAI's API for natural language processing and maintains conversation history using SQLite and Sequelize.
+
+
+
 Setup Instructions
+
 Clone the repository:
+
 git clone https://github.com/your-username/hotel-booking-chatbot.git
 
 Install dependencies:
 cd hotel-booking-chatbot
-npm install
+npm install 
 
 Set up the OpenAI API key:
 Create an account on the OpenAI platform if you haven't already.
